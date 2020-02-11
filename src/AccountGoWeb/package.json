@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "latest",
     "bootstrap": "latest",
-    "jquery": "2.2.4",
+    "jquery": "3.4.1",
     "mobx": "latest",
     "mobx-react": "latest",
     "react": "latest",
